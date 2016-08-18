@@ -1,0 +1,43 @@
+body{
+	background-image: url(../images/white_wall_hash.png);
+	background-repeat:repeat;
+}
+
+.div-productos{
+	width:70%; 
+	margin-left:20%; 
+	margin-top:3%;
+}
+
+.div-productos-guardar{
+	display: inline-block;
+	padding-right: 2%
+}
+
+.table-productos-guardar{
+	width:500px;
+}
+
+.form-productos-guardar{
+	margin-bottom: 30px;
+}
+
+.table-productos-guardar th {
+	text-align:left;
+}
+
+.table-productos-guardar input, .table-productos-guardar select{
+	width: 100%;
+}
+
+.table-productos-listar th{
+	text-align:left;
+}
+
+.div-productos-listar{
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 2%;
+	border-left: 1px solid #C7B9B9;
+}
+
